@@ -1,0 +1,9 @@
+dist
+.hgignore
+venv
+
+
+*.egg-info
+*.pyc
+*~
+.DS_Store
